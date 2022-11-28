@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\XmlUsporedba\bin\Debug\XmlUsporedba.exe.config
+C:\Users\ucenik\source\repos\XmlUsporedba\bin\Debug\XmlUsporedba.exe
+C:\Users\ucenik\source\repos\XmlUsporedba\bin\Debug\XmlUsporedba.pdb
+C:\Users\ucenik\source\repos\XmlUsporedba\obj\Debug\XmlUsporedba.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\XmlUsporedba\obj\Debug\XmlUsporedba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\XmlUsporedba\obj\Debug\XmlUsporedba.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\XmlUsporedba\obj\Debug\XmlUsporedba.exe
+C:\Users\ucenik\source\repos\XmlUsporedba\obj\Debug\XmlUsporedba.pdb
